@@ -1,0 +1,9 @@
+---
+title: "Thomas Allen"
+---
+
+Thomas Allen's website for hosting projects, data stories, etc.
+
+```{r}
+plot(iris, pch=20, cex=.5, col="firebrick")
+```
