@@ -1,9 +1,18 @@
 ---
-title: "Thomas Allen"
+title: "Thomas Allen Website"
+navbar:
+  left:
+    - href: index.qmd
+     text: Home
+    - about.qmd
+    
+format:
+  html:
+    theme: slate
+    css: styles.css
+    toc: true
+
+editor: visual
 ---
 
 Thomas Allen's website for hosting projects, data stories, etc.
-
-```{r}
-plot(iris, pch=20, cex=.5, col="firebrick")
-```
